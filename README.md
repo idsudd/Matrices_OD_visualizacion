@@ -9,17 +9,17 @@ Datos
 
 ## Día Laboral
 
-![Día Laboral](/figures/figure00.PNG)
+![Día Laboral](/figures/figure01.PNG)
 
 ## Fin de Semana
 
 ### Sábado
 
-![Día Sábado](/figures/figure01.PNG)
+![Día Sábado](/figures/figure02.PNG)
 
 ### Domingo
 
-![Día Domingo](/figures/figure02.PNG)
+![Día Domingo](/figures/figure03.PNG)
 
 ## Día Laboral
 ### Horario Peak Mañana (06:00 am - 08:59 am)
