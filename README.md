@@ -5,6 +5,22 @@ Datos
 - Promedio de cinco días laborales de la semana del 4 de abril de 2022.
 - Incluye conteo de viajes, etapas de viaje y tablas agregadas de matrices OD (subidas y bajadas) sin incluir información de viajes no registrados por tarjeta bip! (evasión).
 
+# Viajes Totales
+
+## Día Laboral
+
+![Día Laboral](/figures/figure00.PNG)
+
+## Fin de Semana
+
+### Sábado
+
+![Día Sábado](/figures/figure01.PNG)
+
+### Domingo
+
+![Día Domingo](/figures/figure02.PNG)
+
 ## Día Laboral
 ### Horario Peak Mañana (06:00 am - 08:59 am)
 
